@@ -20,7 +20,7 @@ Video conferencing has become an essential part of communication in today's remo
 
 # Developers
 
-@PRIYADHARSHINI V 
+@PRIYADHARSHINI V ( https://github.com/VPD24 )
 @NAVANEETH N 
 @VIGNESH K 
 @RAGHUBHARATHI B 
